@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-12T10:56:14 IST" name="Default suite" finished-at="2023-04-12T10:56:14 IST" duration-ms="446">
+  <suite started-at="2023-04-12T12:06:35 IST" name="Default suite" finished-at="2023-04-12T12:06:35 IST" duration-ms="163">
     <groups>
     </groups>
-    <test started-at="2023-04-12T10:56:14 IST" name="Default test" finished-at="2023-04-12T10:56:14 IST" duration-ms="446">
-      <class name="demogithup.Demo">
-        <test-method signature="demo()[pri:0, instance:demogithup.Demo@932bc4a]" started-at="2023-04-12T10:56:14 IST" name="demo" finished-at="2023-04-12T10:56:14 IST" duration-ms="38" status="PASS">
+    <test started-at="2023-04-12T12:06:35 IST" name="Default test" finished-at="2023-04-12T12:06:35 IST" duration-ms="163">
+      <class name="demo1.Demo111">
+        <test-method signature="demo()[pri:0, instance:demo1.Demo111@932bc4a]" started-at="2023-04-12T12:06:35 IST" name="demo" finished-at="2023-04-12T12:06:35 IST" duration-ms="37" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demo -->
-      </class> <!-- demogithup.Demo -->
+      </class> <!-- demo1.Demo111 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
